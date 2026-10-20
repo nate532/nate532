@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title description">
+  <title id="title">Built By Nate</title>
+  <desc id="description">The work is the story. Building. Systems. Brands. Leverage. A graphite, off-white, and bronze typographic banner.</desc>
+  <rect width="1200" height="310" fill="#17191b"/>
+  <rect x="40" y="42" width="6" height="226" fill="#b99160"/>
+  <text x="78" y="116" fill="#f4f0e7" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="1">BUILT BY NATE</text>
+  <text x="81" y="171" fill="#b99160" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700" letter-spacing="2.8">THE WORK IS THE STORY.</text>
+  <line x1="80" y1="217" x2="1120" y2="217" stroke="#393b3c" stroke-width="1"/>
+  <text x="81" y="255" fill="#c3bfb6" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.6">BUILDING</text>
+  <circle cx="225" cy="250" r="2" fill="#b99160"/>
+  <text x="254" y="255" fill="#c3bfb6" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.6">SYSTEMS</text>
+  <circle cx="392" cy="250" r="2" fill="#b99160"/>
+  <text x="421" y="255" fill="#c3bfb6" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.6">BRANDS</text>
+  <circle cx="548" cy="250" r="2" fill="#b99160"/>
+  <text x="577" y="255" fill="#c3bfb6" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.6">LEVERAGE</text>
+</svg>
